@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Libs Value=""/>
+	<Flags Value=""/>
+	<Target Value="Projeto.exe"/>
+	<CommandLine Value=""/>
+	<CompilerOptions Value="-Wall -s"/>
+	<DeleteObjectsBefore Value="Yes"/>
+	<DeleteObjectsAfter Value="Yes"/>
+	<DeleteMakefileAfter Value="Yes"/>
+	<DeleteResourcesAfter Value="Yes"/>
+	<EnableTheme Value="No"/>
+	<RequiresAdmin Value="No"/>
+	<CompilerType Value="CPP"/>
+	<AppType Value="CONSOLE"/>
+	<Files>
+		<File Name="main.cpp"/>
+		<File Name="aluno.cpp"/>
+		<File Name="aluno.h"/>
+		<File Name="professor.cpp"/>
+		<File Name="professor.h"/>
+		<File Name="coordenacao.cpp"/>
+		<File Name="coordenacao.h"/>
+		<File Name="usuario.cpp"/>
+		<File Name="usuario.h"/>
+		<File Name="alunos"/>
+		<File Name="professores"/>
+		<File Name="cadeiras"/>
+		<File Name="funcoes.h"/>
+	</Files>
+</Project>

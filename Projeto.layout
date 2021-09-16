@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="7" Column="19"/>
+		</File>
+		<File Name="funcoes.h" Top="No" Tabpos="2" TopLine="411">
+			<Cursor Line="558" Column="31"/>
+		</File>
+		<File Name="coordenacao.cpp" Top="No" Tabpos="3" TopLine="46">
+			<Cursor Line="71" Column="24"/>
+		</File>
+		<File Name="coordenacao.h" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="61" Column="29"/>
+		</File>
+		<File Name="aluno.cpp" Top="No" Tabpos="5" TopLine="28">
+			<Cursor Line="15" Column="2"/>
+		</File>
+		<File Name="aluno.h" Top="No" Tabpos="6" TopLine="11">
+			<Cursor Line="23" Column="58"/>
+		</File>
+		<File Name="professor.cpp" Top="No" Tabpos="7" TopLine="1">
+			<Cursor Line="20" Column="32"/>
+			<Selection Line="20" Column="19"/>
+		</File>
+		<File Name="professor.h" Top="No" Tabpos="8" TopLine="1">
+			<Cursor Line="24" Column="25"/>
+		</File>
+		<File Name="usuario.cpp" Top="No" Tabpos="9" TopLine="1">
+			<Cursor Line="6" Column="2"/>
+		</File>
+		<File Name="usuario.h" Top="No" Tabpos="10" TopLine="1">
+			<Cursor Line="19" Column="3"/>
+			<Selection Line="19" Column="14"/>
+		</File>
+		<File Name="alunos" Top="No" Tabpos="11" TopLine="1">
+			<Cursor Line="26" Column="1"/>
+		</File>
+		<File Name="professores" Top="No" Tabpos="12" TopLine="1">
+			<Cursor Line="28" Column="1"/>
+		</File>
+		<File Name="cadeiras" Top="No" Tabpos="13" TopLine="1">
+			<Cursor Line="17" Column="1"/>
+		</File>
+	</Files>
+</Layout>
